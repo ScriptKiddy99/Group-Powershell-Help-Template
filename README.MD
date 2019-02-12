@@ -1,8 +1,8 @@
-PowerShell Version: &nbsp;
-Post State: Looking for help/Resolved &nbsp;
-Resolution: ~~ Leave blank untill resolved ~~ &nbsp;
-Environment: Production/Development &nbsp;
-OS: Windows 10/Linux etc. &nbsp;
-Code Link: Git/pastebin &nbsp;
-What are you trying to achieve: &nbsp;
-Problem: &nbsp;
+PowerShell Version:
+Post State: Looking for help/Resolved
+Resolution: ~~ Leave blank untill resolved ~~ 
+Environment: Production/Development 
+OS: Windows 10/Linux etc. 
+Code Link: Git/pastebin 
+What are you trying to achieve:
+Problem: 
